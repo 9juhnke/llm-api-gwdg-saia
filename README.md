@@ -18,6 +18,7 @@ Currently, the following templates are available:
 4. [Images](./images.ipynb) – get textual descriptions of images, e.g., for further interaction
 5. [Embeddings / RAG](./embeddings_rag.ipynb) – example of how to set up a Retrieval Augmented Generation model
 6. [Document Processing](./document_processing.ipynb) – extract text and images from PDFs
+7. [Structured Outputs](./structured_output.ipynb) – build structured outputs from choices, with regex-patterns or as JSON (Yess!)
 
 ## Requirements
 
@@ -42,6 +43,10 @@ Open the Jupyter Notebooks in your environment, **insert your API Key** and run 
 For questions or issues, please use the issue tracker or refer to the official SAIA documentation:
 
 https://docs.hpc.gwdg.de/services/saia
+
+For advanced features, as Structured Outputs in this example, see the vLLM documentation:
+
+https://docs.vllm.ai/en/latest/features/structured_outputs.html
 
 ## Contributing
 
